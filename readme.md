@@ -1,3 +1,11 @@
+This repository hold the content of exchange.talend.com as a public archive.
+
+The export was taken on May 20th.
+
+If you have any inquiries you can reach out on: exchange-migration (at) talend.com 
+
+New components / content will be handled via community.talend.com
+
 # Data Integration Job
  * <a href='./archive/umeshrakhe/components/24 Hours Time Dimension Load Job/readme.md'><img src='./archive/umeshrakhe/components/24 Hours Time Dimension Load Job/logo.jpg' width='20' height='20'> 24 Hours Time Dimension Load Job</a> by <sup><sub><a href='./archive/umeshrakhe/readme.md'>umeshrakhe</a></sub></sup> :warning: Compatibility not known - 2014-05-21 :arrow_heading_down: 65
  * <a href='./archive/pascalcz/components/Anonymizer Scenarios for Caesar/readme.md'><img src='./archive/pascalcz/components/Anonymizer Scenarios for Caesar/logo.jpg' width='20' height='20'> Anonymizer Scenarios for Caesar</a> by <sup><sub><a href='./archive/pascalcz/readme.md'>pascalcz</a></sub></sup> :warning: Compatibility not known - 2014-10-02 :arrow_heading_down: 57
